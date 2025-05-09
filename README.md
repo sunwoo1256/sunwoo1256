@@ -44,7 +44,7 @@ Spring과 Docker를 활용한 백엔드 개발을 공부하고 있으며,
 ### 📌 DrumStory
 - 설명: 🎵 드럼 학원 연습실 예약 시스템 
 - 기술 스택: Spring Boot, JPA, MySQL, Spring Security, AWS, Nginx
-- 🔗 [GitHub 바로가기]([https://github.com/sunwoo1256/DrumStory])
+- 🔗 [GitHub 바로가기](https://github.com/sunwoo1256/DrumStory)
 
 ---
 
