@@ -16,16 +16,15 @@ Spring을 활용한 백엔드 개발을 공부하고 있으며,
 
 ## 🛠 Tech Stack
 
-### 💻 Languages & Tools
-
-<div align=center> 
   <!-- 언어 -->
+  ### Languages
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br><br>
 
   <!-- 백엔드 / 인프라 -->
+  ### Backend
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
@@ -33,16 +32,18 @@ Spring을 활용한 백엔드 개발을 공부하고 있으며,
   <br><br>
 
   <!-- 데이터베이스 -->
+  ### Database
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
   <br><br>
 
   <!-- 개발 환경 -->
+  ### Tools
   <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+
 
 ---
 
