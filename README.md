@@ -1,6 +1,5 @@
-## Hi there I'm Sunwoo Shin👋
 
-# 👋 안녕하세요, 신선우입니다!
+# 👋 Hi there I'm Sunwoo Shin👋
 
 Spring과 Docker를 활용한 백엔드 개발을 공부하고 있으며,
 생활 속의 불편한 점을 찾아 그것을 해결할 수 있는 서비스를 개발 하는 것을 즐깁니다.  
@@ -36,7 +35,6 @@ Spring과 Docker를 활용한 백엔드 개발을 공부하고 있으며,
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-  <p align="left">
   
 
 ---
