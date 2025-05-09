@@ -61,10 +61,10 @@ Spring과 Docker를 활용한 백엔드 개발을 공부하고 있으며,
 
 <p>
   <a href="mailto:sswsjw1234@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sunwoo1256" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
