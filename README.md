@@ -16,6 +16,8 @@ Spring을 활용한 백엔드 개발을 공부하고 있으며,
 
 ## 🛠 Tech Stack
 
+
+<div align=left> 
   <!-- 언어 -->
   ### Languages
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -43,7 +45,7 @@ Spring을 활용한 백엔드 개발을 공부하고 있으며,
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
+</div>
 
 ---
 
