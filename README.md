@@ -28,15 +28,15 @@ Spring을 활용한 백엔드 개발을 공부하고 있으며,
   <!-- 백엔드 / 인프라 -->
   ### Backend
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-  //<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  //<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">-->
+  <!--<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">-->
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <br><br>
 
   <!-- 데이터베이스 -->
   ### Database
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  //<img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">-->
   <br><br>
 
   <!-- 개발 환경 -->
